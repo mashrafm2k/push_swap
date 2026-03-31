@@ -117,4 +117,5 @@ All **final code, testing, debugging decisions, and validation** were reviewed a
 ## Author
 
 **42 student:** `moashraf`
+
 Part of the **42 Abu Dhabi** curriculum.
