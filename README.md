@@ -106,7 +106,6 @@ Common useful documentation:
 
 AI assistance was used as a **learning and guidance tool**, specifically for:
 
-* Explaining project requirements and evaluation constraints
 * Debugging compilation, parsing, and memory issues
 * Understanding sorting optimization strategies
 * Drafting documentation such as this README
